@@ -1,2 +1,3 @@
 FROM almalinux:9
-CMD ["ping","-c5",google.com]
+#pinging gogle
+CMD ["ping","-c5","google.com"]
